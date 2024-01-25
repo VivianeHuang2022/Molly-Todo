@@ -1,4 +1,3 @@
-Molly ToDo App Readme
 Introduction
 Molly ToDo is a simple and efficient task management application built with React on the front end and utilizing REST API for communication between the front-end and back-end. This application allows users to manage their tasks effectively by providing features such as task creation, editable updates, setting event priorities, marking tasks as completed, and tracking completion status.
 
