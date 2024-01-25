@@ -25,22 +25,20 @@ How to Use
 Clone the Repository:
 
 Clone the Molly ToDo repository to your local machine.
-bash
-Copy code
+
 git clone https://github.com/your-username/molly-todo.git
 Install Dependencies:
 
 Navigate to the project folder and install the necessary dependencies for both the front end and back end.
-bash
-Copy code
+
+
 cd molly-todo
 cd client && npm install
 cd ../server && npm install
 Run the Application:
 
 Start the front end and back end servers.
-bash
-Copy code
+
 # In the client folder
 npm start
 
