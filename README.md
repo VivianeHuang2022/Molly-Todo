@@ -40,10 +40,10 @@ Clone the Molly ToDo repository to your local machine.
 git clone https://github.com/your-username/molly-todo.git
 
 ## Install Dependencies
-<br>
-cd molly-todo <br>
-cd client && npm install <br>
-cd ../server && npm install <br>
+
+cd molly-todo 
+cd client && npm install 
+cd ../server && npm install 
 
 ## Run the Application
 Start the front end and back end servers.
